@@ -1,4 +1,4 @@
-package formes.src.fr.esgi.poo.formes;
+package fomes.src.fr.esgi.poo.formes;
 
 public class Main {
 
