@@ -1,4 +1,4 @@
-package election.src.fr.esgi.poo.election;
+ zpackage election.src.fr.esgi.poo.election;
 
 public class Candidate {
     private String _name;
